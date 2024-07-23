@@ -43,7 +43,7 @@ const QuizSettings = () => {
         onValueChange={(value) => setDifficulty(value)}
       >
         <SelectTrigger className="w-full md:max-w-xs xl:max-w-md">
-          <SelectValue placeholder="Difficulty" />
+          <SelectValue placeholder="Difficulty Level" />
         </SelectTrigger>
         <SelectContent>
           {difficultyOptions.map((difficulty) => (
