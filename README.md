@@ -4,7 +4,7 @@ Welcome to Quizlet, a web application built using Next.js. This application allo
 
 ## Live Demo
 
-Check out the live version of the project [here]( https://selvabharathi0705.github.io/Quizlet/).
+Check out the live version of the project [here](https://quizlet-dmicvizl5-selvabharathi-s-projects.vercel.app/).
 
 ## Project Description
 
